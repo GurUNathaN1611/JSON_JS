@@ -9,7 +9,6 @@
    value.topics = data.getAll("topics");
 
     console.log({ value });
-    form.submit();
   }
   var input = "form";
   const form = document.querySelector(input);
